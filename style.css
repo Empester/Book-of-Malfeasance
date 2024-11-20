@@ -1,0 +1,55 @@
+h1 {
+    text-align:center;
+    font-size:medium;
+}
+#sub {
+    text-align: center;
+    border-radius:0%;
+    font-size:12.5px;
+}
+
+* {
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+
+    font-style: normal;
+  }
+  
+
+p {
+    padding-left: 10px;
+}
+
+.centered {
+    padding-left:10px;
+}
+
+img {
+    padding-left:10px
+}
+
+
+
+
+.banner{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.support-israel__label{
+	color: blue;
+	font-weight: 900;
+	font-size: large;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.line{
+	height: 5px;
+	width: 100%;
+}
+.white{
+	background-color: white;
+}
+.blue{
+	background-color: blue;
+}
