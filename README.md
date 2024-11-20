@@ -1,6 +1,9 @@
 # Book of Malfeasance
 Publich "Book" of **mostly** all genocides/mass murder events done by different countries.
 
+## Official Site
+[Book of Malfeasance](https://bookofmalfeasance.onrender.com)
+
 ## Quick Start
 Follow these simple steps and you are ready to go in less than one minute!
 
