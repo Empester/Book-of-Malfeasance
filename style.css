@@ -1,3 +1,4 @@
+
 h1 {
     text-align:center;
     font-size:medium;
@@ -10,7 +11,7 @@ h1 {
 
 a {
     text-decoration: none;
-    color:blueviolet
+    color: blue;
 }
 
 * {
@@ -23,6 +24,7 @@ a {
 
 p {
     padding-left: 10px;
+
 }
 
 .centered {
@@ -31,30 +33,4 @@ p {
 
 img {
     padding-left:10px
-}
-
-
-
-
-.banner{
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	flex-direction: column;
-}
-.support-israel__label{
-	color: blue;
-	font-weight: 900;
-	font-size: large;
-	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-}
-.line{
-	height: 5px;
-	width: 100%;
-}
-.white{
-	background-color: white;
-}
-.blue{
-	background-color: blue;
 }
